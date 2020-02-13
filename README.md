@@ -19,3 +19,4 @@ Assign mockups to team and also practice in " Code In The Dark "
 16. https://alligator.io/
 17. github.com (Two Sections)
 18. technologyreview.com
+19. lifesum.com
