@@ -27,7 +27,7 @@ Assign mockups to team and also practice in " Code In The Dark "
 24. dropbox.com/business
 25. deepmind.com
 26. tensorflow.org
-27. itech19.agency
+27. cubix.co
 28. coursera.org
 29. udacity.com
 30. chriscoyier.net
