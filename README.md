@@ -41,3 +41,4 @@ Assign mockups to team and also practice in " Code In The Dark "
 38. hackster.io
 39. dribbble.com
 40. creativebloq.com
+41. pk.mashable.com
