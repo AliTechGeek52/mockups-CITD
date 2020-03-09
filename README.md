@@ -43,3 +43,4 @@ Assign mockups to team and also practice in " Code In The Dark "
 40. creativebloq.com
 41. pk.mashable.com
 42. sider.review
+43. digitalocean.com
